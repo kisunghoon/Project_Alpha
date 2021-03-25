@@ -12,7 +12,8 @@
 	<article>본문 입니다
 		<section>기사1</section>
 	</article>
-	<footer>푸터 입니다
+	<footer>푸터 입니다 
+	ookkddffdsf
 	</footer>
 </body>
 </html>
