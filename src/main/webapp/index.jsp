@@ -12,6 +12,7 @@
 	관리자
 	
 	</div>
+	<div>about</div>
 	</header>
 	<article>본문 입니다
 		<section>기사1</section>
