@@ -13,7 +13,7 @@
 		<section>기사1</section>
 	</article>
 	<footer>푸터 입니다 
-	ookkddffdsf
+	ookkddffdsfff
 	</footer>
 </body>
 </html>
