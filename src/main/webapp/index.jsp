@@ -7,7 +7,7 @@
 <title>알파 홈페이지</title>
 </head>
 <body>
-	<header>
+	<header>헤더 입니다 
 	</header>
 	<article>
 	</article>
